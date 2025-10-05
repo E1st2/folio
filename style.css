@@ -928,11 +928,11 @@ footer a i{
     }
     .home-image{
         margin-bottom: 5rem;
-        left: 20%;
+        left: 7%;
     }
     .liquid-shape{
-        width: 80%;
-        left: 1.5%;
+        width: 70%;
+        left: .5%;
        
     }
     .about{
@@ -964,7 +964,8 @@ footer a i{
     .img-about img{
         max-width: 100%;
         height: auto;
-        width: 400px;
+        width: 250px;
     }
+
 
 }
